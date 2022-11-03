@@ -1,0 +1,11 @@
+chex==0.1.5
+tensorflow==2.8.2
+Pillow
+ipython==7.9.0
+numpy==1.21.6
+dm-haiku==0.0.8
+jaxlib==0.3.22
+jax==0.3.22
+ml-collections==0.1.1
+seaborn==0.11.2
+typing-extensions==4.1.1
