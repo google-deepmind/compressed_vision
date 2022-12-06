@@ -38,6 +38,9 @@ A simple CoLAB showing how to load our models at
  showing how augmentation is applied to a compressed
  video.
 
+Another simple CoLAB in `./colabs/demo_data.ipynb`
+shows how to load compressed versions
+and visualises the PCA of these representations as videos.
 
 ## Citing this work
 

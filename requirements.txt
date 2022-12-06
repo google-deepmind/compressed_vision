@@ -9,3 +9,4 @@ jax==0.3.22
 ml-collections==0.1.1
 seaborn==0.11.2
 typing-extensions==4.1.1
+scikit-learn==1.1.3
