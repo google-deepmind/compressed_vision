@@ -1,6 +1,6 @@
 # Compressed Vision
 
-This repo contains the code for the ACCV paper on [Compressed Vision](https://sites.google.com/corp/view/compressed-vision). The paper describes how we can first compress videos to
+This repo contains the code for the ACCV paper on [Compressed Vision](https://arxiv.org/abs/2210.02995). The paper describes how we can first compress videos to
  a smaller representation and then train a neural network *directly* on this
  compressed representation for various downstream tasks. We can also apply
  augmentations directly in this compressed space, thereby replicating the full
